@@ -1,0 +1,14 @@
+C:\Users\Gordi\examples\example001_helloconcole\bin\Debug\net7.0\example001_helloconcole.exe
+C:\Users\Gordi\examples\example001_helloconcole\bin\Debug\net7.0\example001_helloconcole.deps.json
+C:\Users\Gordi\examples\example001_helloconcole\bin\Debug\net7.0\example001_helloconcole.runtimeconfig.json
+C:\Users\Gordi\examples\example001_helloconcole\bin\Debug\net7.0\example001_helloconcole.dll
+C:\Users\Gordi\examples\example001_helloconcole\bin\Debug\net7.0\example001_helloconcole.pdb
+C:\Users\Gordi\examples\example001_helloconcole\obj\Debug\net7.0\example001_helloconcole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gordi\examples\example001_helloconcole\obj\Debug\net7.0\example001_helloconcole.AssemblyInfoInputs.cache
+C:\Users\Gordi\examples\example001_helloconcole\obj\Debug\net7.0\example001_helloconcole.AssemblyInfo.cs
+C:\Users\Gordi\examples\example001_helloconcole\obj\Debug\net7.0\example001_helloconcole.csproj.CoreCompileInputs.cache
+C:\Users\Gordi\examples\example001_helloconcole\obj\Debug\net7.0\example001_helloconcole.dll
+C:\Users\Gordi\examples\example001_helloconcole\obj\Debug\net7.0\refint\example001_helloconcole.dll
+C:\Users\Gordi\examples\example001_helloconcole\obj\Debug\net7.0\example001_helloconcole.pdb
+C:\Users\Gordi\examples\example001_helloconcole\obj\Debug\net7.0\example001_helloconcole.genruntimeconfig.cache
+C:\Users\Gordi\examples\example001_helloconcole\obj\Debug\net7.0\ref\example001_helloconcole.dll
